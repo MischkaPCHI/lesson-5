@@ -3,7 +3,7 @@
 }
 
 .block{
-    background: linear-gradient(to right, white, black);
+    background: linear-gradient(to right, white, black);  /* по баловались немножко с градиентом ) */
     margin: 10px;
     height: calc(100vh - 24px);
     position: relative;
